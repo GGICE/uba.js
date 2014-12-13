@@ -1,0 +1,7 @@
+{
+  "name": "uba-js",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1"
+  }
+}
