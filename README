@@ -15,6 +15,7 @@ uba是用于监控用户页面行为的js插件。
 3.gulp serve (gulp watch)
 
 （演示将用户点击行为记录和绘制热点图在一个页面里展示，开关为headmap=turle or false。）
+
 使用方法:
 
 1.引用以下两个文件
