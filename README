@@ -1,0 +1,16 @@
+Show demo
+
+'''
+(sudo) npm install
+'''
+
+'''
+bower install
+'''
+
+Use
+
+app/uab/heatmap.js // heatmap plugin
+
+app/uab/uab.js  //demo usage
+
