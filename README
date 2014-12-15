@@ -1,16 +1,11 @@
-Show demo
+Show demo or run:
 
-'''
 (sudo) npm install
-'''
-
-'''
 bower install
-'''
 
-Use
+Use:
 
-app/uab/heatmap.js // heatmap plugin
+app/uab/heatmap.js  // heatmap plugin
 
-app/uab/uab.js  //demo usage
+app/uab/uab.js   //demo usage , for user click behavior detection.
 
